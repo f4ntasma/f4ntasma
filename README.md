@@ -1,33 +1,93 @@
-**Esquema de ideas (versión EN CONTRA) con tesis + argumento en idea principal:**  
+# Hello there I am Viral Bhadeshiya👋
 
-**1. Idea principal (Tesis + Argumento):**  
-*"El porte de armas para civiles debe permitirse (tesis), porque empodera a los ciudadanos para defenderse ante la ineficacia del sistema de seguridad (argumento)."*  
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-**2. Definición clave:**  
-*Legítima defensa: derecho legal de usar fuerza proporcional ante una agresión inminente.*  
 
-**3. Argumentos con ideas terciarias:**  
-- **Idea secundaria 1:** Civiles armados disuaden el crimen.  
-  - *Idea terciaria 1:* En Suiza, baja criminalidad por cultura de armas reguladas (Datos: OCDE, 2023).  
-  - *Idea terciaria 2:* 70% de asaltantes evitan hogares donde saben hay armas (Estudio Universidad de Harvard).  
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- **Idea secundaria 2:** Entrenamiento obligatorio minimiza riesgos.  
-  - *Idea terciaria 1:* Países como Canadá exigen cursos psicológicos y técnicos para portar armas.  
+## My tech stack
 
-- **Idea secundaria 3:* Policía no puede proteger a todos.  
-  - *Idea terciaria 1:* Tiempo promedio de respuesta policial: 15 minutos (Informe PNUD, 2024).  
+<p align="left"> 
 
-**4. Reiteración de tesis:**  
-*"Por ello, el acceso regulado a armas es una solución práctica y un derecho esencial ante la inseguridad."*  
+  <a> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+  </a>
+  &emsp; 
+  <a> 
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+  </a>
+</p>
 
----  
-**Texto argumentativo EN CONTRA (con tesis + argumento integrados):**  
-*"El porte de armas para civiles debe permitirse porque empodera a los ciudadanos para defenderse ante la ineficacia del sistema de seguridad. Por *legítima defensa* se entiende el derecho legal de usar fuerza proporcional ante una agresión inminente. Los civiles armados disuaden el crimen: en Suiza, la criminalidad es baja gracias a una cultura de armas reguladas (OCDE, 2023), y el 70% de asaltantes evita hogares con armas (Harvard, 2022). Además, el entrenamiento obligatorio —como en Canadá, donde se exigen cursos psicológicos— reduce accidentes. Finalmente, la policía no puede proteger a todos; su tiempo de respuesta promedio es de 15 minutos (PNUD, 2024). Por esto, el acceso regulado a armas es una solución práctica y un derecho esencial."*  
 
-**Claves de la estructura:**  
-1. **Idea principal:** Tesis + Argumento en una sola oración.  
-2. **Definición:** Término jurídico para dar peso al argumento.  
-3. **Jerarquía:** 3 ideas secundarias, cada una con datos concretos.  
-4. **Conclusión:** Reafirma la tesis con síntesis de los puntos clave.  
+## Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
+      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+</p>
 
-*Nota: Este formato sigue el modelo original pero invierte la postura, usando datos internacionales para fortalecer los argumentos.*
+-----
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+ </p>
