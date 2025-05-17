@@ -1,11 +1,11 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hello there I am Angel Vasquez (GHOST)👋
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMyNjFvM2xxdzhvNXJsMzdoeGVuNXh2Y3dwYjRvbHl5d3JobnA4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" alt="adam-pw" /></p>
 
-## My tech stack
+ <h2>My tech stack</h2>
 
 <p align="left"> 
 
@@ -67,7 +67,7 @@
 </p>
 
 
-## Connect with me:
+Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
