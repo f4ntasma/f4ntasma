@@ -35,7 +35,7 @@
 [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
 <p align='left'>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="GHOST">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ghost_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="GHOST">
 </p>
 
 <p align='center'>
