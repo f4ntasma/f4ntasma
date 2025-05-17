@@ -3,85 +3,45 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
-<p><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDMyNjFvM2xxdzhvNXJsMzdoeGVuNXh2Y3dwYjRvbHl5d3JobnA4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWswYmpkc2s1bmtjYnlqajVuenhncmNodzJ3MGRhbnA0ajJ2amVsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" alt="adam-pw" /></p>
 
- <h2>My tech stack</h2>
+### 👨‍💻 Languages and Tools
 
-<p align="left"> 
+<br />
 
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
 </p>
 
-
-Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
 </p>
+
 
 -----
 <p align="center">
