@@ -34,10 +34,6 @@
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![MobX](https://img.shields.io/badge/-MobX-gray?style=flat&logo=mobx&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
 
-<p align='left'>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ghost_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="GHOST">
-</p>
-
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
 </p>
