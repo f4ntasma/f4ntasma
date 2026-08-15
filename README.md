@@ -24,25 +24,19 @@
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-
-<!-- NoSQL & Bases de Datos -->
 [![NoSQL](https://shields.io)](https://github.com)
-
 <!-- Java & Spring -->
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white&link=https://github.com)](https://github.com)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white&link=https://github.com)](https://github.com)
-
 <!-- Docker -->
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white&link=https://github.com)](https://github.com)
-
 <!-- Lenguajes Web y Scripting -->
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&link=https://github.com)](https://github.com)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com)](https://github.com)
-
 <!-- Ciencia de Datos -->
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white&link=https://github.com)](https://github.com)
-
 <!-- Lenguajes de Bajo Nivel y .NET -->
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black&link=https://github.com)](https://github.com)
 [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white&link=https://github.com)](https://github.com)
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com)](https://github.com)
+[![n8n](https://shields.io)](https://github.com)
